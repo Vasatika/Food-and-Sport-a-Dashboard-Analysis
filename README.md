@@ -28,7 +28,13 @@ The Tableau dashboard includes components for food voting preferences, beverage 
 
 ## Tableau Dashboard Working
 The dashboard allows vendors to track game events, determine the most popular food and beverage items, manage inventory levels, and track revenue. Vendors can make informed decisions about discounts, promotions, and restocking based on game events, weather conditions, and customer preferences.
+
 <img width="428" alt="Final Dashboard" src="https://github.com/Vasatika/Food-and-Sport-a-Dashboard-Analysis/assets/79835755/26d5251e-5bb6-44cb-8379-ecf1bbd75fa0">
+
+Example of the Vendor dashboard during a specific game event: 
+
+<img width="425" alt="Vendor" src="https://github.com/Vasatika/Food-and-Sport-a-Dashboard-Analysis/assets/79835755/71a33fde-e940-4f65-8fb2-d7636db09627">
+
 
 ## Data Wrangling Steps
 1. Cleaned the inventory dataset, checked data types, and ensured no missing values.
