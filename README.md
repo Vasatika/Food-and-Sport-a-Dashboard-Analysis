@@ -57,5 +57,5 @@ The project aims to develop a comprehensive dashboard for food vendors in MLB st
 - Identifying core problems faced by vendors in baseball stadiums required thorough research.
 - Ensuring consistent color schemes across different charts and visuals proved challenging.
 
-##Additional Note
+### Additional Note
 - Uploaded all project-related files for reference and detailed explanation of the dashboard. 
